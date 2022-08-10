@@ -12,7 +12,7 @@
 <div><hr>
 
 - 👀 I’m interested in OOP and web development
-- 🌱 I’m currently learning ReactJS, Java, and C#
+- 🌱 I’m currently learning ReactJS, Angular, Java, and C#
 - 💞️ I’m looking to collaborate on Video game development companies
 - 📫 You can reach me through my email santimartz12@gmail.com
 
