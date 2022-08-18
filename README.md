@@ -7,7 +7,7 @@
     <img style="height:40px" src="./resources/logos/LinkedIn.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a target="_blank" href="https://www.instagram.com/santimartz12"><img style="height:40px" src="./resources/logos/Instagram.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a target="_blank" href="https://www.artstation.com/santimartz"><img style="height:40px" src="./resources/logos/ArtStation.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a target="_blank" href="https://santimartz12.github.io/Portafolio/"><img style="height:40px" src="./resources/logos/Portafolio.svg"></a>
+    <a target="_blank" href="https://santimartz.netlify.app/"><img style="height:40px" src="./resources/logos/Portafolio.svg"></a>
     </div>
 <div><hr>
 
