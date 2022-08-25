@@ -24,4 +24,5 @@
     <img src="./resources/badges/02.png"style="width:120px">
     <img src="./resources/badges/03.png" style="width:120px">
     <img src="./resources/badges/04.png" style="width:120px">
+    <img src="./resources/badges/05.png" style="width:120px">
 </div>
