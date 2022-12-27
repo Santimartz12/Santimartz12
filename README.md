@@ -11,9 +11,9 @@
     </div>
 <div><hr>
 
-- 👀 I’m interested in OOP and web development
-- 🌱 I’m currently learning ReactJS, Angular, Java, and C#
-- 💞️ I’m looking to collaborate on Video game development companies
+- 👀 I’m interested mobile and web development with Angular
+- 🌱 I’m currently learning Full Stack development and React
+- 💞️ I’m looking to collaborate on startups or digital companies
 - 📫 You can reach me through my email santimartz12@gmail.com
 
 
